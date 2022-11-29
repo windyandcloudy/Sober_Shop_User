@@ -101,3 +101,11 @@ export const LOCAL_STORAGE = {
 
 export const DEFAULT_PAGE = 1;
 export const LIMIT = 12;
+export const CURRENCY = {
+    USD: "USD"
+}
+
+export const PAYMENT_METHOD_TYPE = {
+    onDelivery: "Payment on delivery",
+    paypal: "Paypal"
+}
